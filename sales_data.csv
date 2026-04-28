@@ -1,0 +1,9 @@
+﻿CustomerID,CustomerName,Segment,OrderID,Date,Region,Product,Category,Sales,Profit,Quantity,Discount,PaymentMode
+C101,Rahul Sharma,Consumer,1001,1/5/2024,West,Laptop,Electronics,55000,5000,2,0.1,Credit Card
+C102,Priya Singh,Corporate,1002,1/6/2024,North,Phone,Electronics,30000,4000,3,0.05,UPI
+C103,Amit Patel,Home Office,1003,1/7/2024,East,Tablet,Electronics,20000,2500,2,0.08,Debit Card
+C104,Neha Verma,Consumer,1004,1/8/2024,South,Headphones,Electronics,5000,800,4,0.12,UPI
+C105,Arjun Mehta,Corporate,1005,1/9/2024,West,Monitor,Electronics,15000,2000,2,0.07,Credit Card
+C106,Sneha Iyer,Home Office,1006,1/10/2024,North,Keyboard,Electronics,3000,500,5,0.15,Debit Card
+C107,Vikram Rao,Consumer,1007,1/11/2024,East,Mouse,Electronics,1500,300,6,0.1,UPI
+C108,Pooja Kapoor,Corporate,1008,1/12/2024,South,Printer,Electronics,12000,1500,1,0.06,Credit Card
